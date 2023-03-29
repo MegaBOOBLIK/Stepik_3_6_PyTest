@@ -5,7 +5,7 @@
 
 - Запускаем тесты с параматрами pytest --language=es test_item.py
 
-Для запуска можно использовать разные параметры параметры:
---browser_name=firefox
---browser_name=chrome
+Для запуска можно использовать разные параметры параметры:<BR>
+--browser_name=firefox, 
+--browser_name=chrome, 
 --language=fr, --language=es, --language=ru
